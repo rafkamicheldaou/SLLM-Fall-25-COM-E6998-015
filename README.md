@@ -29,19 +29,6 @@ The course emphasizes **hardware–software co-design** as the key to advancing 
 Students will engage with top-tier conference papers (NeurIPS, ICML, ICLR, ISCA, ACL), present and critique readings, and complete a semester-long **group project**, resulting in a **survey paper with experimental evaluation**.
 
 ---
-## Teaching Staff
-
-- **Kaoutar El Maghraoui**  
-  Adjunct Professor of Computer Science and Principal Research Scientist and Manager,  
-  IBM T.J. Watson Research Center, NY  
-
-- **Antoni Viros i Martin**  
-  Staff Research Scientist,  
-  IBM T.J. Watson Research Center, NY and Cambridge  
-
-- **Rafka Daou**  
-  Course Assistant / Teaching Assistant, Columbia University  
-
 
 ##  Repository Structure
 The repository is organized by week. Each week’s directory contains relevant **code examples, notebooks, and reading resources**.
@@ -58,5 +45,17 @@ The repository is organized by week. Each week’s directory contains relevant *
    git clone https://github.com/rafkamicheldaou/SLLM-Fall-25-COM-E6998-015.git
    cd SLLM-Fall-25-COM-E6998-015
 
+---
+## Teaching Staff
 
+- **Kaoutar El Maghraoui**  
+  Adjunct Professor of Computer Science and Principal Research Scientist and Manager,  
+  IBM T.J. Watson Research Center, NY  
+
+- **Antoni Viros i Martin**  
+  Staff Research Scientist,  
+  IBM T.J. Watson Research Center, NY and Cambridge  
+
+- **Rafka Daou**  
+  Course Assistant / Teaching Assistant, Columbia University  
 
