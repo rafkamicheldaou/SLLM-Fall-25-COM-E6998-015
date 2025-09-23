@@ -1,4 +1,4 @@
-# Week 3 Open Source Resources 
+# Week 3 Open Source Resource
 
 ## Documentation
 - [NVIDIA Megatron-Core User Guide](https://docs.nvidia.com/megatron-core/developer-guide/latest/user-guide/index.html)
