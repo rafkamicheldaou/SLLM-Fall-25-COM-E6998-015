@@ -34,4 +34,36 @@ By the end of this week, students will be able to:
 ---
 
 ## Papers
-See [papers.md](./papers.md) for this week's papers and reading materials.
+See [papers](./papers) for this week's papers and reading materials.
+
+---
+
+### 1. Megatron-LM
+**Title:** Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism  
+**Authors:** Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, Bryan Catanzaro  
+**Link:** [arXiv:1909.08053](https://arxiv.org/abs/1909.08053)  
+**File:** [Megatron-LM.pdf](./papers/Megatron-LM.pdf)
+
+---
+
+### 2. ZeRO
+**Title:** ZeRO: Memory Optimizations Toward Training Trillion Parameter Models  
+**Authors:** Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, Yuxiong He  
+**Link:** [arXiv:1910.02054](https://arxiv.org/abs/1910.02054)  
+**File:** [ZeRO.pdf](./papers/ZeRO.pdf)
+
+---
+
+### 3. Alpa
+**Title:** Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning  
+**Authors:** Lianmin Zheng, Zhuohan Li, Hao Zhang, Yonghao Zhuang, Zhifeng Chen, Yanping Huang, Yida Wang, Yuanzhong Xu, Danyang Zhuo, Eric P. Xing, Joseph E. Gonzalez, Ion Stoica  
+**Link:** [arXiv:2201.12023](https://arxiv.org/abs/2201.12023)  
+**File:** [Alpa.pdf](./papers/Alpa.pdf)
+
+---
+
+### 4. ZeRO++
+**Title:** ZeRO++: Extremely Efficient Collective Communication for Giant Model Training  
+**Authors:** Guanhua Wang, Heyang Qin, Sam Ade Jacobs, Connor Holmes, Samyam Rajbhandari, Olatunji Ruwase, Feng Yan, Lei Yang, Yuxiong He  
+**Link:** [arXiv:2306.10209](https://arxiv.org/abs/2306.10209)  
+**File:** [ZeRO++.pdf](./papers/ZeRO++.pdf)
