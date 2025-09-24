@@ -14,7 +14,7 @@ This week focuses on **techniques and architectures that extend the scalability 
 
 ---
 
-### 2. [LongLoRA: Efficient Fine-Tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
+### 2. [LongLoRA: Efficient Fine-Tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307) 
 **Authors:** Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia (ICLR 2024)  
 - Presents **LongLoRA**, a lightweight fine-tuning strategy that extends an LLM’s context window (e.g., Llama2 7B from **4k → 100k tokens**) on a **single 8×A100 machine**.  
 - Combines:
@@ -47,4 +47,5 @@ This week focuses on **techniques and architectures that extend the scalability 
 - **FlashAttention-2:** Provides the core memory and speed optimizations that power long-context models.
 
 Together, these papers showcase the **state-of-the-art methods for scaling LLMs** to handle unprecedented context lengths efficiently.
+
 
